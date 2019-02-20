@@ -14,6 +14,7 @@ a {
     color: blue;
 }
 
+
 .disabled {
     color: grey;
 }
@@ -46,7 +47,7 @@ a.disabled {
     background-color: red;
 }
 
-div.grandparent>h4 {
+.grandparent>h4 {
     border: 1px solid black;
     border-radius: 25px
 }
@@ -57,7 +58,6 @@ div.grandparent>h4 {
 }
 
 .promo .disabled {
-    font-weight: bold;
     color: gold;
 }
 
